@@ -1,0 +1,20 @@
+*
+{
+	margin : 0;
+	padding : 0;
+}
+body
+{
+	text-align : center; 
+}
+img
+{
+	border : none;
+	height : 900px;
+}
+
+#preload
+{
+	width : 0px;
+	height : 0px;
+}

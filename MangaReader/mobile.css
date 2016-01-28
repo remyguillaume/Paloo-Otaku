@@ -1,0 +1,21 @@
+body
+{
+	text-align : center; 
+}
+h1
+{
+	font-family : "verdana";
+	font-size : 12px;
+	font-variant : small-caps;
+}
+img
+{
+	border : none;
+	width : 100%;
+}
+
+#preload
+{
+	width : 0px;
+	height : 0px;
+}
